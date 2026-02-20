@@ -23,4 +23,6 @@ L'installation via le Store vous permet de bénéficier :
 * **Multimédia** : Enregistreur d'écran et captures annotées.
 
   
-[![Disponible sur le Microsoft Store](https://developer.microsoft.com/en-us/microsoft-store/badges/static/images/French_get-it-from-MS.png)](ms-windows-store://pdp/?ProductId=9P2RZNR37FWV)
+<a href="ms-windows-store://pdp/?ProductId=9P2RZNR37FWV">
+  <img src="https://get.microsoft.com/images/fr-fr_get-it-from-ms.png" alt="Disponible sur le Microsoft Store" width="200"/>
+</a>
