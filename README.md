@@ -21,8 +21,6 @@ L'installation via le Store vous permet de bénéficier :
 * **Sécurité** : Coffre-fort de mots de passe (Chiffrement AES-256 local).
 * **Productivité** : Prise de notes Markdown, Gestionnaire de presse-papiers.
 * **Multimédia** : Enregistreur d'écran et captures annotées.
-
-  
 <a href="ms-windows-store://pdp/?ProductId=9P2RZNR37FWV">
   <img src="badge-store.png" alt="Disponible sur le Microsoft Store" width="200"/>
 </a>
