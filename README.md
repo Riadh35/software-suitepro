@@ -24,5 +24,5 @@ L'installation via le Store vous permet de bénéficier :
 
   
 <a href="ms-windows-store://pdp/?ProductId=9P2RZNR37FWV">
-  <img src="https://developer.microsoft.com/store/badges/static/images/fr-fr_get-it-from-ms.svg" alt="Disponible sur le Microsoft Store" width="180"/>
+  <img src="badge-store.png" alt="Disponible sur le Microsoft Store" width="200"/>
 </a>
